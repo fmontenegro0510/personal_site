@@ -2,27 +2,10 @@
 > Un vistazo simple a mis proyectos.
 > Live demo [_acá_](https://www.franciscomontenegro.com.ar). <!-- If you have the project hosted somewhere, include the link here. -->
 
-## Table of Contents
-* [General Info](#general-information)
+## Contenido
 * [Technologies Used](#technologies-used)
-* [Features](#features)
-* [Screenshots](#screenshots)
-* [Setup](#setup)
-* [Usage](#usage)
-* [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 <!-- * [License](#license) -->
-
-
-## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
 
 ## Technologies Used
 - Html + PaperCss + JS 
